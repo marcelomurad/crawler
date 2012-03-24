@@ -43,5 +43,6 @@ gem 'sunspot_solr'
 
 group :development, :test do
   gem 'rspec'
+  gem 'rspec-rails'
 end
 
