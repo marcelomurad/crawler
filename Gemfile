@@ -40,6 +40,7 @@ gem 'jquery-rails'
 
 gem 'sunspot'
 gem 'sunspot_solr'
+gem 'sunspot_rails'
 
 group :development, :test do
   gem 'rspec'
